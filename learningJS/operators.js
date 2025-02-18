@@ -71,7 +71,12 @@ console.log(c<d && c==5);  // true || true = true    / any 1 condition should be
 
 // not operator !
 console.log(!false);    // true ko false or false ko true
-                    
+              
+// single line comment
+
+/* multi wndked
+line deded
+comment */
 
 
 
